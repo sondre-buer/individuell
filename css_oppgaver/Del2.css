@@ -1,0 +1,26 @@
+body{
+	font-family: sans-serif;
+}
+table{
+	border-collapse: collapse;
+}
+th{
+	border: 2px solid black;
+	padding: 7px;
+	background-color: #3366ff;
+}
+td{
+	border: 2px solid black;
+	padding: 7px;
+	background-color: #668cff;
+}
+a{
+	color: #001e80;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	color: #005a80;
+	font-size: 18px;
+	text-decoration: none;
+}
