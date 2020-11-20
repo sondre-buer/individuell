@@ -12,22 +12,22 @@ body{
 	background-size: cover;
 }
 .meny {
-  overflow: hidden;
-  background-color: #006600;
-  width: 60%;
-  margin: auto;
+	overflow: hidden;
+  	background-color: #006600;
+  	width: 60%;
+  	margin: auto;
 }
 .meny a {
-  float: left;
-  color: #fff;
-  text-align: center;
-  padding: 10px 15px;
-  text-decoration: none;
-  font-size: 18px;
+  	float: left;
+  	color: #fff;
+  	text-align: center;
+  	padding: 10px 15px;
+  	text-decoration: none;
+  	font-size: 18px;
 }
 .meny a:hover{
-background-color: #b3b3b3;
-color: #000;
+	background-color: #b3b3b3;
+	color: #000;
 }
 .b{
 	border-left: 1px solid black; 
