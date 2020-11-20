@@ -1,0 +1,89 @@
+body{
+	font-family: arial;
+	background-color: #f2f2f2
+}
+.a{
+	width: 60%;
+	height: 200px;
+	margin: auto;
+	background-image: url(https://s3.itslearning.com/fetch?id=b574%2F6583-306e-4af8-a372-7118290bd22e&version=1&expires=2020-11-19T15%3A32%3A43Z&isDownloadRequest=0&s3Url=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fprod.eu-central-1.filerepo%2Fb574%2F6583-306e-4af8-a372-7118290bd22e%3FX-Amz-Expires%3D300%26response-cache-control%3Dmax-age%253D300%26response-content-disposition%3Dinline%253B%2520filename%253D%2522La_Morra.jpeg%2522%253B%26response-content-type%3Dimage%252Fjpeg%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAIQ6TLTXZ2ESTRSDA%2F20201119%2Feu-central-1%2Fs3%2Faws4_request%26X-Amz-Date%3D20201119T152742Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D3ced18b917488bd187120abb2d0ef822258c53970ae57829b0a24b595b7a2d94&sign=qaMObLsKDVO8mDNupOyvcJrEKvHIPpwyBGSV017%2FS0c%3D);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.meny {
+  overflow: hidden;
+  background-color: #006600;
+  width: 60%;
+  margin: auto;
+}
+.meny a {
+  float: left;
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.meny a:hover{
+background-color: #b3b3b3;
+color: #000;
+}
+.b{
+	border-left: 1px solid black; 
+	border-right: 1px solid black; 
+	margin-right: 520px;
+	margin-left: 520px;
+	padding: 15px;
+}
+.b h1{
+	text-align: center;
+	margin: 50px;
+}
+.c{
+	text-align: left;
+	margin: 25px;
+}
+.flex{
+	display: flex;
+	margin: 10px;
+}
+.flex div{
+	margin: 15px;
+	text-align: left;
+}
+.b h2{
+	text-align: left;
+	margin: 25px;
+}
+.flex2{
+	display: flex;
+	margin: 10px;
+}
+.flex2 div{
+	margin: 15px;
+	width: 100%;
+}
+.boks{
+ 	background-color: #aaa;
+ 	padding: 10px;
+ 	text-align: left;
+ 	flex-basis: 30%;
+}
+.d{
+	text-align: left;
+	margin: 25px;
+	flex-basis: 70%;
+}
+.bunn{
+	background-color: #006600;
+	width: 60%;
+	margin: auto;
+}
+.bunn p{
+	text-align: center;
+	margin: auto;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: #fff
+}
