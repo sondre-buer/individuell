@@ -6,7 +6,7 @@ body{
 	width: 60%;
 	height: 200px;
 	margin: auto;
-	background-image: url(https://s3.itslearning.com/fetch?id=b574%2F6583-306e-4af8-a372-7118290bd22e&version=1&expires=2020-11-19T15%3A32%3A43Z&isDownloadRequest=0&s3Url=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fprod.eu-central-1.filerepo%2Fb574%2F6583-306e-4af8-a372-7118290bd22e%3FX-Amz-Expires%3D300%26response-cache-control%3Dmax-age%253D300%26response-content-disposition%3Dinline%253B%2520filename%253D%2522La_Morra.jpeg%2522%253B%26response-content-type%3Dimage%252Fjpeg%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAIQ6TLTXZ2ESTRSDA%2F20201119%2Feu-central-1%2Fs3%2Faws4_request%26X-Amz-Date%3D20201119T152742Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D3ced18b917488bd187120abb2d0ef822258c53970ae57829b0a24b595b7a2d94&sign=qaMObLsKDVO8mDNupOyvcJrEKvHIPpwyBGSV017%2FS0c%3D);
+	background-image: url(la_morra.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
